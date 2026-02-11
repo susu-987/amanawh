@@ -18,19 +18,19 @@ export default function Page() {
       "Really sure?",
       "Think again!",
       "Last chance!",
-      "Surely not?",
-      "You might regret this!",
-      "Give it another thought!",
+      "I will buy you blaban bro",
+      "No way you don't want blaban???!!",
+      "Give it another thought pless!",
       "Are you absolutely certain?",
       "This could be a mistake!",
-      "Have a heart!",
+      "Have a heart bru!",
       "Don't be so cold!",
       "Change of heart?",
       "Wouldn't you reconsider?",
-      "Is that your final answer?",
+      "temme you hate me bro?",
       "You're breaking my heart ;(",
       "Is that your final answer?",
-      "You're breaking my heart ;(",
+      "You're breaking my heart lu;(",
       "Plsss? :( You're breaking my heart",
     ];
 
@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            I knew you loved me Amanawhhhhh!!!
           </div>
         </>
       ) : (
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Will you be my Valentine Lu?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
